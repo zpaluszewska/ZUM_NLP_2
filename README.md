@@ -1,5 +1,5 @@
 # ZUM_NLP_2
-Analiza sentymentu na podstawie tweet'ów w języku polskim o COVID-19.
+Analizator sentymentu na podstawie tweet'ów w języku polskim o COVID-19.
 
 Celem projektu jest stworzenie analizatora sentymentu do analizy polaryzacji społeczeństwa w Polsce na podstawie tweetów na temat COVID-19.
 
